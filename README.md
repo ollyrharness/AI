@@ -1,2 +1,3 @@
-# AI
-Portfolio of AI, ML and DL assignments and activities
+# Machine Learning Module
+<br /><br />
+Data pre-processing and machine learning models including...
