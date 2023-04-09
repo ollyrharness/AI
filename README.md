@@ -1,2 +1,3 @@
-# AI
-Portfolio of AI, ML and DL assignments and activities
+# Deep Learning
+<br / ><br />
+Examples of image pre-processing, custom CNN and utilising pre-trained models
